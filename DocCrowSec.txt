@@ -1,0 +1,49 @@
+Antes de mais nada, Vamos entender o que é o CrowSec.
+
+CrowSec não é só mais uma (Distribuição) voltado para Segurança da Informação, O CrowSec é uma proposta de distribuição, (Arch Linux).
+A distribuição CrowSec abrange a diversas áreas e comunidades.
+Vamos á exemplos;
+Se você é Dev ruby, Há distribuição voltado a desenvolvimento ruby.
+Se for tanto Front-End quanto Beck-end ou melhor, Full-Stack, Há distribuição voltado a densenvolvimento web, Com ferramentas próprias á desenvolvimento, Como:
+
+1. IDEs e Editores de Textos
+Visual Studio Code (VS Code)
+Atom
+Sublime
+Netbeans.
+
+2. Front-end Frameworks
+Bootstrap
+Foundation
+Materialize
+
+3. Web App Frameworks
+ASP.NET
+Django
+Ruby on Rails
+
+Entre outros.
+
+Agora entenda a historia da equipe do CrowSec™.
+
+CrowSec foi iniciado no final de 2015 até 10/2016, tendo alvo compartilhar Informações sobre, Hacking e Programação.
+Como qualquer outra equipe sem estrutura, A equipe acabou sendo desativada, mas com isso formou grandes amizades.
+
+A equipe era formada por:
+BrZone
+Smk666
+
+entre outros, no qual, não podemos citar.
+
+O CrowSec teve uma v1 onde foi descontinuado, com isso no final de 2017 surgiu novamente á "Esperança" de ter um sistema unico e produtivo.
+
+Desenvolvimento do CrowSec.
+
+Como dito antes, O CrowSec iniciado e descontinuado logo em seguida, Só que sempre o desenvolvedor quis continuar o projeto,
+Então o Luiz Gustavo, Antigo BrZone, Atualmente o (DarkCode) continuo o projeto e eis aqui a versão final, Contando com ajuda em algumas partes como gráfica e documentação, O também antigo membro do CrowSec™, Thiago Vinicius Antigo Smk666, Atualmente o (Esponnja).
+
+desenvolvedor: Luiz Gustavo:DarkCode
+
+
+
+
